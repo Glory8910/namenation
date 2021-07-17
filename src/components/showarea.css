@@ -1,0 +1,15 @@
+.cent{
+   font-size: larger;
+   text-align: center;
+   padding:20px;
+  
+}
+
+.cardsplay{
+    margin:0 auto;
+    border-radius: 20% !important;
+    
+}
+.imgg{
+    border-radius: 20%;
+}
